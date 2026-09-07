@@ -1,0 +1,10 @@
+.env
+backend/.env
+venv/
+backend/venv/
+node_modules/
+build/
+.dart_tool/
+__pycache__/
+*.pyc
+.pytest_cache/
